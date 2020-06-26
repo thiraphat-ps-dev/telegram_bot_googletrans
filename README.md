@@ -32,4 +32,4 @@ add you token and run command
 $ python telegram_bot.py
 ```
 
-##Thank you!
+## Thank you!
